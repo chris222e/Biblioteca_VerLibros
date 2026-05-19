@@ -7,9 +7,6 @@
 
 -📖 #Registro de libros en la base de datos
 -👀 #Visualización de libros registrados
--🔍 #Consulta básica de información de libros
--🗂️ #Organización eficiente de datos
--⚡ #Interfaz simple y fácil de usar
 ```
 
 ```🛠️ Tecnologías utilizadas
@@ -20,7 +17,7 @@
 -🌐 #HTML5
 -🎨 #CSS3
 -⚙️ #JavaScript
--🧩 #SB Admin 2 (plantilla UI)
+-🧩 #SB Admin 2
 ```
 
 ```⚙️ Instalación del proyecto
@@ -36,12 +33,13 @@ vendor → public/
 4️⃣ Configurar variables de entorno
 ```
 
-```📄 Copiar el archivo:
+```
+📄 Copiar el archivo:
 
 .env.example → .env
-```
 
-```✏️ Luego editar:
+
+✏️ Luego editar:
 
 CI_ENVIRONMENT = development
 ```
