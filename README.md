@@ -26,21 +26,12 @@ git clone https://github.com/chris222e/Biblioteca_VerLibros.git
 2️⃣ Instalar dependencias
 composer install
 3️⃣ Configurar plantilla SB Admin 2
-
 📁 Copiar la carpeta:
-
 vendor → public/
 4️⃣ Configurar variables de entorno
-```
-
-```
 📄 Copiar el archivo:
-
 .env.example → .env
-
-
 ✏️ Luego editar:
-
 CI_ENVIRONMENT = development
 ```
 ```
