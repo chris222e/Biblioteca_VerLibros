@@ -76,5 +76,5 @@ http://localhost:8080
 👨‍💻 Autor
 
 ✨ Desarrollado por: Christian Espinoza
-📚 Proyecto académico: Biblioteca_VerLibros
+📚 Proyecto : Biblioteca_VerLibros
 ```
